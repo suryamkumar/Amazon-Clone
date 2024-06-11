@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17542685867",
+    "firebase_url": "https://shopstop-9aef0-default-rtdb.firebaseio.com",
+    "project_id": "shopstop-9aef0",
+    "storage_bucket": "shopstop-9aef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17542685867:android:a3b2b99b49d8c59966c3ee",
+        "android_client_info": {
+          "package_name": "com.example.shopstop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17542685867-qpba2pge0pcarpgp1c9ql6mep618n8g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSlc0JNPeJpsH8u_6vgoC21PiWCACeoAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17542685867-qpba2pge0pcarpgp1c9ql6mep618n8g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
